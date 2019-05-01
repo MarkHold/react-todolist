@@ -1,16 +1,16 @@
 import * as React from 'react';
 import './App.css';
-import MyClass from "./components/MyClass";
 
+//Here we import our class in
 
-import logo from './logo.svg';
 
 class App extends React.Component {
   public render() {
     return (
+      
       <div className="App">
       
-      <MyClass name={'techsith'} />
+      
 
 
       </div>
